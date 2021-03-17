@@ -1,0 +1,1 @@
+print("326 is a fun class.")
